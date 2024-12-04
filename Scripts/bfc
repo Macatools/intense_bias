@@ -1,0 +1,1 @@
+/home/INT/meunier.d/Softwares/BrainSuite23a.linux/BrainSuite23a/bin/bfc23a_x86_64-pc-linux-gnu -i ../sub-Randy_ses-01_space-stereo_T1w.nii.gz -o ../sub-Randy_ses-01_space-stereo_T1w_bfc.nii.gz
